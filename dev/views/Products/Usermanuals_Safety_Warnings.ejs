@@ -25,12 +25,14 @@
         <% include ../_partials/content/_bluenav-usermanual.ejs %>
 
 
-                <section class="blade wrapper content">
+                <section itemscope itemtype="http://schema.org/Article" class="blade wrapper content">
 
                   <div class="container">
 
-                    <h1 class="post-title">INSTAR <%= model %> IP Kamera</h1>
-                    <h3>Sicherheitshinweise</h3>
+                    <div itemprop="name">
+                      <h1 class="post-title">INSTAR <%= model %> IP Kamera</h1>
+                      <h3>Sicherheitshinweise</h3>
+                    </div>
 
                     <div class="card-container margin">
                         <div class="onecard">
