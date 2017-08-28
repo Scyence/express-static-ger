@@ -1,0 +1,532 @@
+POST /wiki2/article
+{
+    "title2": "Downloads Area",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/",
+    "title": "INSTAR Wiki Downloadbereich",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: Indoor Cameras",
+    "series": ["FHD", "HD", "VGA", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/",
+    "title": "Downloads :: Innenkameras",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Innenkameras"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-3001",
+    "series": ["VGA", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/IN-3001/",
+    "title": "Downloads :: IN-3001",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-3001"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-3003",
+    "series": ["VGA", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/IN-3003/",
+    "title": "Downloads :: IN-3003",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-3003"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-3010",
+    "series": ["VGA", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/IN-3010/",
+    "title": "Downloads :: IN-3010",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-3010"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-3011",
+    "series": ["VGA", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/IN-3011/",
+    "title": "Downloads :: IN-3011",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-3011"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-6001 HD",
+    "series": ["HD", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/IN-6001_HD/",
+    "title": "Downloads :: IN-6001 HD",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-6001"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-6012 HD",
+    "series": ["HD", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/IN-6012_HD/",
+    "title": "Downloads :: IN-6012 HD",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-6012"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-6014 HD",
+    "series": ["HD", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/IN-6014_HD/",
+    "title": "Downloads :: IN-6014 HD",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-6014"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-8015 Full HD",
+    "series": ["FHD", "Indoor"],
+    "models": ["IN-3011", "IN-4010", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-8015 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Indoor_Cameras/IN-8015_HD/",
+    "title": "Downloads :: IN-8015 Full HD",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-8015"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: Outdoor Cameras",
+    "series": ["FHD", "HD", "VGA", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/",
+    "title": "Downloads :: Aussenkameras",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Aussenkameras"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-2904",
+    "series": ["VGA", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-2904/",
+    "title": "Downloads :: IN-2904",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-2904"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-2905",
+    "series": ["VGA", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-2905_V2/",
+    "title": "Downloads :: IN-2905",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-2905"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-2908",
+    "series": ["VGA", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-2908/",
+    "title": "Downloads :: IN-2908",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-2908"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-4009",
+    "series": ["VGA", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-4009/",
+    "title": "Downloads :: IN-4009",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-4009"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-4010",
+    "series": ["VGA", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-4010/",
+    "title": "Downloads :: IN-4010",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-4010"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-4011",
+    "series": ["VGA", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-4011/",
+    "title": "Downloads :: IN-4011",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-4011"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-5905 HD",
+    "series": ["HD", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-5905_HD/",
+    "title": "Downloads :: IN-5905 HD",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-5905"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-5907 HD",
+    "series": ["HD", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-5907_HD/",
+    "title": "Downloads :: IN-5907 HD",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-5907"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-7011 HD",
+    "series": ["HD", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-7011_HD/",
+    "title": "Downloads :: IN-7011 HD",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-7011"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-9008 Full HD",
+    "series": ["FHD", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-7011 HD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Outdoor_Cameras/IN-9008_HD/",
+    "title": "Downloads :: IN-9008 Full HD",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "IN-9008"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: Desktop Software",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Desktop_Software/",
+    "title": "Downloads :: Desktop Software",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Desktop Software"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: InstarVision v2",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Desktop_Software/InstarVision/",
+    "title": "Downloads :: InstarVision v2",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Desktop Software", "InstarVision", "InstarVision v2", "InstarVision beta", "InstarVision 2.1 beta"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: InstarVision Metro",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Desktop_Software/InstarVision_Metro/",
+    "title": "Downloads :: InstarVision Metro",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Desktop Software", "InstarVision", "InstarVision Metro", "InstarVision Metro"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: INSTAR Camera Tool",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads//Desktop_Software/Instar_Camera_Tool/",
+    "title": "Downloads :: INSTAR Kamera Tool",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Desktop Software", "Instar Kamera Tool", "Instar Camera Tool", "Kamera Tool", "Camera Tool"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: Mobile Apps",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Mobile_Apps/",
+    "title": "Downloads :: Handy Apps",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Handy Apps", "Smartphone", "Mobile"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: InstarVision iOS",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Mobile_Apps/iOS/",
+    "title": "Downloads :: InstarVision iOS",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Handy Apps", "Smartphone", "Mobile", "iPhone", "iPad", "InstarVision"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: InstarVision Android",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Mobile_Apps/Android_BlackBerry/",
+    "title": "Downloads :: InstarVision Android",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Handy Apps", "Smartphone", "Mobile", "Android", "BlackBerry", "InstarVision"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: InstarVision Windows Phone",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Mobile_Apps/Windows_Phone/",
+    "title": "Downloads :: InstarVision Windows Phone",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Handy Apps", "Smartphone", "Mobile", "Windows Phone", "InstarVision"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: Accessories",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Accessories/",
+    "title": "Downloads :: InstarVision Zubehör",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-Motion 300",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Accessories/IN-Motion_300/",
+    "title": "Downloads :: IN-Motion 300",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör", "IN-Motion 300", "IN-Motion"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-Motion 500",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Accessories/IN-Motion_500/",
+    "title": "Downloads :: IN-Motion 500",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör", "IN-Motion 500", "IN-Motion"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-Mikro 380",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Accessories/IN-Mikro_380/",
+    "title": "Downloads :: IN-Mikro 380",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör", "IN-Mikro 380", "IN-Mikro"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: Infrared Spotlight",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Accessories/IN-90x/",
+    "title": "Downloads :: Infrarot Scheinwerfer",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör", "IN-903", "IN-905", "IN-906", "IN-907"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: Netzwerk Accessories",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Network_Accessories/",
+    "title": "Downloads :: Netzwerk Zubehör",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör", "Netzwerk Zubehör"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-LAN 500",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Network_Accessories/IN-LAN_500/",
+    "title": "Downloads :: IN-LAN 500",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör", "Netzwerk Zubehör", "IN-LAN 500", "IN-LAN 500p"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-PoE 1000",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Network_Accessories/IN-PoE_1000/",
+    "title": "Downloads :: IN-PoE 1000",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör", "Netzwerk Zubehör", "IN-PoE 1000"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
+POST /wiki2/article
+{
+    "title2": "Downloads :: IN-Route P52",
+    "series": ["FHD", "HD", "VGA", "Indoor", "Outdoor"],
+    "models": ["IN-2905", "IN-2908", "IN-3011", "IN-4010", "IN-4011", "IN-5905 HD", "IN-5907 HD", "IN-6001 HD", "IN-6012 HD", "IN-6014 HD", "IN-7011 HD", "IN-8015 FHD", "IN-9008 FHD"],
+    "description": "INSTAR Wiki Downloadbereich",
+    "description2": "INSTAR Wiki Download Area",
+    "link": "/Downloads/Network_Accessories/IN-Route_P52/",
+    "title": "Downloads :: IN-Route P52",
+    "chapter": "Downloads",
+    "tags": ["Download", "Handbuch", "Firmware", "Software", "Zubehör", "Netzwerk Zubehör", "IN-Route P52"],
+    "image": "/images/Search/D_SearchThumb.jpg",
+    "abstract": "Software, Apps, Zubehör und Anleitungen zum Herunterladen."
+}
